@@ -1,0 +1,18 @@
+{
+  "name": "gitlab-documentation-marketplace",
+  "owner": {
+    "name": "Claude GitLab Documentation",
+    "url": "https://github.com/lucacri/Claude-Gitlab-documentation"
+  },
+  "metadata": {
+    "description": "A comprehensive GitLab documentation skill for Claude Code, providing instant access to GitLab API, webhooks, CI/CD, and more",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gitlab-skill",
+      "source": "./gitlab-skill",
+      "description": "Comprehensive GitLab documentation skill including API, webhooks, CI/CD schema, runners, and more"
+    }
+  ]
+}
