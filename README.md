@@ -175,7 +175,7 @@ Contributions welcome! To add or improve documentation:
 Claude-Gitlab-documentation/
 ├── .claude-plugin/
 │   └── marketplace.json          # Plugin marketplace config
-├── gitlab-skill/
+├── gitlab-documentation-skill/
 │   ├── .claude-plugin/
 │   │   └── plugin.json           # Plugin metadata
 │   └── skills/

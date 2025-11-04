@@ -1,5 +1,5 @@
 {
-  "name": "gitlab-skill",
+  "name": "gitlab-documentation-skill",
   "version": "1.0.0",
   "description": "Comprehensive GitLab documentation skill providing instant access to GitLab API, webhooks, CI/CD schema, runners, and more",
   "author": "Claude GitLab Documentation",

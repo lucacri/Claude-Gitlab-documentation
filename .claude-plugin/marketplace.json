@@ -10,8 +10,8 @@
   },
   "plugins": [
     {
-      "name": "gitlab-skill",
-      "source": "./gitlab-skill",
+      "name": "gitlab-documentation-skill",
+      "source": "./gitlab-documentation-skill",
       "description": "Comprehensive GitLab documentation skill including API, webhooks, CI/CD schema, runners, and more"
     }
   ]
